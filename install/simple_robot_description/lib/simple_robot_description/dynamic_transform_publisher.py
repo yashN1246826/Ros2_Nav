@@ -1,0 +1,1 @@
+/home/ntu-user/ros2_ws/src/simple_robot_description/scripts/dynamic_transform_publisher.py

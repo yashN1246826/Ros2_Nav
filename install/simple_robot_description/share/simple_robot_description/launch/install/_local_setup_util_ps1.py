@@ -1,0 +1,1 @@
+/home/ntu-user/ros2_ws/src/simple_robot_description/launch/install/_local_setup_util_ps1.py

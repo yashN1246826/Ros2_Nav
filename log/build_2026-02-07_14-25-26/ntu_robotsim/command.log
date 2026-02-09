@@ -1,0 +1,4 @@
+Invoking command in '/home/ntu-user/ros2_ws/build/ntu_robotsim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ntu-user/ros2_ws/build/ntu_robotsim -- -j10 -l10
+Invoked command in '/home/ntu-user/ros2_ws/build/ntu_robotsim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ntu-user/ros2_ws/build/ntu_robotsim -- -j10 -l10
+Invoking command in '/home/ntu-user/ros2_ws/build/ntu_robotsim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ntu-user/ros2_ws/build/ntu_robotsim
+Invoked command in '/home/ntu-user/ros2_ws/build/ntu_robotsim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ntu-user/ros2_ws/build/ntu_robotsim

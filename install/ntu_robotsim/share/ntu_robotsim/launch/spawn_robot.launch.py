@@ -1,0 +1,1 @@
+/home/ntu-user/ros2_ws/src/ntu_robotsim_nav2/ntu_robotsim/launch/spawn_robot.launch.py

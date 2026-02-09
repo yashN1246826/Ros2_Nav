@@ -1,0 +1,71 @@
+[0.023s] Invoking command in '/home/ntu-user/ros2_ws/build/simple_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ntu-user/ros2_ws/build/simple_robot_description -- -j10 -l10
+[0.035s] Invoked command in '/home/ntu-user/ros2_ws/build/simple_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ntu-user/ros2_ws/build/simple_robot_description -- -j10 -l10
+[0.045s] Invoking command in '/home/ntu-user/ros2_ws/build/simple_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ntu-user/ros2_ws/build/simple_robot_description
+[0.048s] -- Install configuration: ""
+[0.048s] -- Execute custom install script
+[0.048s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/urdf/simple_robot.urdf
+[0.048s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/urdf/simple_robot_gazebo.urdf
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/include/markers.launch.py
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/include/robot_state_publisher.launch.py
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/include/rviz.launch.py
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/include/teleop.launch.py
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/include/transforms.launch.py
+[0.049s] [33mCMake Warning (dev) at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:62 (file):
+[0.049s]   Policy CMP0009 is not set: FILE GLOB_RECURSE calls should not follow
+[0.049s]   symlinks by default.  Run "cmake --help-policy CMP0009" for policy details.
+[0.049s]   Use the cmake_policy command to set the policy and suppress this warning.
+[0.049s] Call Stack (most recent call first):
+[0.049s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.049s]   cmake_install.cmake:46 (include)
+[0.049s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.049s] [0m
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/build/.built_by
+[0.049s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/build/COLCON_IGNORE
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/display.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/gazebo.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/include/markers.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/include/robot_state_publisher.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/include/rviz.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/include/teleop.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/include/transforms.launch.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/.colcon_install_layout
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/COLCON_IGNORE
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/_local_setup_util_ps1.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/_local_setup_util_sh.py
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/local_setup.bash
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/local_setup.ps1
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/local_setup.sh
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/local_setup.zsh
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/setup.bash
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/setup.ps1
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/setup.sh
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/install/setup.zsh
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/COLCON_IGNORE
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/build_2025-11-17_15-48-21/events.log
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/build_2025-11-17_15-48-21/logger_all.log
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/latest/events.log
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/latest/logger_all.log
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/latest_build/events.log
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/log/latest_build/logger_all.log
+[0.050s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/launch/robot_complete.launch.py
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/rviz/urdf_config.rviz
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/config/gz_bridge.yaml
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/worlds/diff_drive/diff_drive.sdf
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/lib/simple_robot_description/dynamic_transform_publisher.py
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/lib/simple_robot_description/frame_marker_publisher.py
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/ament_index/resource_index/package_run_dependencies/simple_robot_description
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/ament_index/resource_index/parent_prefix_path/simple_robot_description
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/environment/ament_prefix_path.sh
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/environment/ament_prefix_path.dsv
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/environment/path.sh
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/environment/path.dsv
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/local_setup.bash
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/local_setup.sh
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/local_setup.zsh
+[0.051s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/local_setup.dsv
+[0.051s] -- Symlinking: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/package.dsv
+[0.054s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/ament_index/resource_index/packages/simple_robot_description
+[0.054s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/cmake/simple_robot_descriptionConfig.cmake
+[0.055s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/cmake/simple_robot_descriptionConfig-version.cmake
+[0.055s] -- Up-to-date symlink: /home/ntu-user/ros2_ws/install/simple_robot_description/share/simple_robot_description/package.xml
+[0.070s] Invoked command in '/home/ntu-user/ros2_ws/build/simple_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ntu-user/ros2_ws/build/simple_robot_description

@@ -1,0 +1,1 @@
+/home/ntu-user/ros2_ws/build/ntu_robotsim/ament_cmake_environment_hooks/local_setup.sh

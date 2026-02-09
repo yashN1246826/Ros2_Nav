@@ -1,0 +1,1 @@
+/home/ntu-user/ros2_ws/src/simple_robot_description/build/simple_robot_description/ament_cmake_core/simple_robot_descriptionConfig-version.cmake
